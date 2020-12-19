@@ -1,0 +1,32 @@
+{
+  "name": "p1_chatdeveloper",
+  "version": "1.0.0",
+  "description": "Chat Developer Ex Project",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bserver.js)",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waelq/P1_ChatDeveloper.git"
+  },
+  "author": "Wael Tq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waelq/P1_ChatDeveloper/issues"
+  },
+  "homepage": "https://github.com/waelq/P1_ChatDeveloper#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^5.3.0",
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "express-validator": "^6.8.0",
+    "gravatar": "^1.8.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.8",
+    "nodemon": "^2.0.6",
+    "request": "^2.88.2"
+  }
+}

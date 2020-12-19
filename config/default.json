@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://waelDev:1234@cluster0.jdave.mongodb.net/DevConnector?retryWrites=true&w=majority",
+  "jwtSecret": "anySecretToken",
+  "githubClientId": "56cbaae6431863897a2f",
+  "githubSecret": "d96be672ff6579c35c8b3dadf9bc0eb0fe1cd4db"
+}
